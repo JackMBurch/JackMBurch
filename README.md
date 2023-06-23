@@ -3,9 +3,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,cs,dotnet,postgres,angular,ts,js,html,css,sass,git,github,arduino,raspberrypi,powershell,py,selenium&perline=9)](https://skillicons.dev)
 
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackMBurch&count_private=true&show_icons=true&theme=dark&custom_title=JackMBurch%27s%20GitHub%20Stats)
+![Jack's GitHub stats](https://github-readme-stats-three-pearl-99.vercel.app/api?username=JackMBurch&count_private=true&show_icons=true&theme=dark&custom_title=JackMBurch%27s%20GitHub%20Stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMBurch&theme=dark)](https://github.com/JackMBurch/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/](https://github-readme-stats-three-pearl-99.vercel.app/)api/top-langs/?username=JackMBurch&theme=dark)](https://github.com/JackMBurch/github-readme-stats)
   
 </div>
 <!--
