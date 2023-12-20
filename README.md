@@ -1,24 +1,13 @@
 
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,cs,dotnet,postgres,angular,ts,js,html,css,sass,git,github,arduino,raspberrypi,powershell,py,selenium&perline=9)](https://skillicons.dev)
 
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackMBurch&show_icons=true&count_private=true&theme=dark&custom_title=JackMBurch%27s%20GitHub%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMBurch&count_private=true&theme=dark)
-  
-</div>
 <!--
-**JackMBurch/JackMBurch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackMBurch&show_icons=true&count_private=true&theme=dark&custom_title=JackMBurch%27s%20GitHub%20Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMBurch&count_private=true&theme=dark)
 -->
+</div>
