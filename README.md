@@ -3,7 +3,9 @@
 
 <div align="center">
 
+<!--
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,cs,dotnet,postgres,angular,react,nodejs,express,vite,vitest,ts,js,pnpm,npm,webpack,html,css,sass,docker,git,github,githubactions,regex,postman,linux,ubuntu,bash,obsidian,nginx,windows,powershell,selenium,arduino,raspberrypi,py&perline=9)](https://skillicons.dev)
+-->
 
 
 <!--
