@@ -52,4 +52,4 @@ jobs:
           plugin_languages_threshold: 0%
           repositories_forks: yes
           plugin_calendar: yes
-          plugin_calendar_limit: 3
+          plugin_calendar_limit: 4
