@@ -10,6 +10,6 @@
 
 <!--
 ![Jack's GitHub stats](https://github-stats-extended.vercel.app/api?username=JackMBurch&show_icons=true&count_private=true&theme=dark&custom_title=JackMBurch%27s%20GitHub%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMBurch&count_private=true&theme=dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JackMBurch&count_private=true&theme=dark)
 -->
 </div>
